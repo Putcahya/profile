@@ -24,5 +24,5 @@ I'm Web Developer
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="mailto:cahyaputra0305@gmail.com">
-  <img align="left" alt="Email Goo" width="20px" src="https://path/to/email-logo.png" />
+  <img align="left" alt="Email" width="20px" src="https://path/to/email-logo.png](https://simpleicons.vercel.app/gmail/000" />
 </a>
