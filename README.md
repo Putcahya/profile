@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Cahya Putra!</strong></summary>
 I'm Web Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
@@ -24,5 +24,5 @@ I'm Web Developer
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <a href="mailto:cahyaputra0305@gmail.com">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/email/495f7e" />
+  <img align="left" alt="Email Goo" width="20px" src="https://path/to/email-logo.png" />
 </a>
